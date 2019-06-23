@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "description": "This is a stream",
+      "title": "My Stream",
+      "id": 1
+    },
+    {
+      "title": "Big Ducks",
+      "description": "A large load of big ducks",
+      "id": 2
+    },
+    {
+      "title": "Thorny Toads",
+      "description": "A bunch of thorny toads sitting on a log",
+      "id": 3
+    }
+  ]
+}
